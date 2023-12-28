@@ -1,1 +1,1 @@
-# selenium-bot
+# telegram-media-buying-bot
